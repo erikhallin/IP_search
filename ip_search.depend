@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1505252052 source:d:\cpp\ip_search\ip_search - new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+
+1505284157 source:e:\cpp\ip_search\ip_search - new\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+
